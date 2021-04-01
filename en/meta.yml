@@ -6,6 +6,11 @@ listed: false
 copyedit: false
 last_tested: "2021-03-26"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Getting started
+  - title: Lesson plans and resources
+  - title: Technical setup
+  - title: Setting up the classroom for Pair Programming
+  - title: Teacher experience of Pair Programming
+  - title: Explore the resources
+  - title: Completion survey
+  
