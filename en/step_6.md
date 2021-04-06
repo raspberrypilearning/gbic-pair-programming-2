@@ -1,7 +1,7 @@
 ### Completion survey
 
 --- task ---
-Please complete the Pair Programming project [training survey](https://docs.google.com/forms/d/e/1FAIpQLSfcuN_sg4VRI4-Hp6H74eY2CRJ7A3NJS_nw-ntpriT6YlJT4Q/viewform) {:target="_blank"} to confirm that you have finished the course and provide some feedback.
+Please complete the Pair Programming project [training survey](https://docs.google.com/forms/d/e/1FAIpQLSfcuN_sg4VRI4-Hp6H74eY2CRJ7A3NJS_nw-ntpriT6YlJT4Q/viewform) to confirm that you have finished the course and provide some feedback.
 --- /task ---
   
 You have now completed the course. Thank you, and well done!
