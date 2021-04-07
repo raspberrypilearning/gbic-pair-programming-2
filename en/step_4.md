@@ -32,5 +32,5 @@ Make sure that you have enough space for two pupils to comfortably share a compu
 
 Click the green button (below right) to go to the next step in this session.
 
-You can go back to the [list of contents for this session (Session 1) here](https://projects.raspberrypi.org/en/projects/gbic-pair-programming-2).
+You can go back to the [list of contents for this session (Session 2) here](https://projects.raspberrypi.org/en/projects/gbic-pair-programming-2).
 You can access the [menu for Sessions 1 and 2 here](https://projects.raspberrypi.org/en/pathways/gbic-pair-programming-training).
