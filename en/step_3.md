@@ -19,10 +19,9 @@ In the Introduction to Pair Programming subfolder, different templates have been
 Take some time to investigate the different templates and consider how you will support your pupils to develop appropriate ground rules. Are there any particular rules that you think are the most important for your own pupils?
 --- /task ---
 
-Click the green button (below right) to go to the next step.
-You can go back to the start of Part 2 here.
-You can access the menu for Parts 1, 2, and 3 here.
+Click the green button (below right) to go to the next step in this session.
 
-
+You can go back to the [list of contents for this session (Session 1) here](https://projects.raspberrypi.org/en/projects/gbic-pair-programming-2).
+You can access the [menu for Sessions 1 and 2 here](https://projects.raspberrypi.org/en/pathways/gbic-pair-programming-training).
 
 
