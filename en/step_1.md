@@ -10,7 +10,7 @@ This session focuses on building up your expertise in advance of the project, as
 First, you are going to access the session resources that you will need for the Pair Programming project.
 
 --- task ---
-Open the Pair Programming resource portal{:target="_blank"}, where you can explore all the resources for Lessons 1 to 12. The webpage is the access portal for all the resources relating to the Pair Programming project. 
+Open the Pair Programming resource portal, where you can explore all the resources for Lessons 1 to 12. The webpage is the access portal for all the resources relating to the Pair Programming project. 
 
 --- /task ---
 
@@ -23,6 +23,5 @@ Feel free to download the resources or access them each time you need them from 
 
 Click the green button (below right) to go to the next step in this session.
 
-You can go back to the [list of contents for this session (Session 1) here](https://projects.raspberrypi.org/en/projects/).
-You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/).
-
+You can go back to the [list of contents for this session (Session 1) here](https://projects.raspberrypi.org/en/projects/gbic-pair-programming-2).
+You can access the [menu for Sessions 1 and 2 here](https://projects.raspberrypi.org/en/pathways/gbic-pair-programming-training).
