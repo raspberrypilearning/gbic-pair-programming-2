@@ -29,3 +29,8 @@ There are lots of free online stopwatches available, for example,  [Google Timer
 ## Classroom setup
 
 Make sure that you have enough space for two pupils to comfortably share a computer. As you saw in the video in the previous session, it is easier for pupils to simply move the keyboard and mouse over to the Driver as they swap roles, rather than swapping seats after every 5 minute interval. This minimises disruption and allows pupils to concentrate on the programming task at hand. Also ensure that each pair has their 'map to successful pairing' to hand so that they can check in and reflect on their pair work in every lesson.
+
+Click the green button (below right) to go to the next step in this session.
+
+You can go back to the [list of contents for this session (Session 1) here](https://projects.raspberrypi.org/en/projects/gbic-pair-programming-2).
+You can access the [menu for Sessions 1 and 2 here](https://projects.raspberrypi.org/en/pathways/gbic-pair-programming-training).
