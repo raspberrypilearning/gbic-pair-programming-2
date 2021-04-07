@@ -8,6 +8,8 @@ For pupils with more advanced skills, this is a learning opportunity to develop 
 
 The pairings must be decided by the teacher in advance of the first lesson. It is useful for the pupils to see the class seating plan in the presentation - see the template seating plan in the resource folder for Introduction to Pair Programming. 
 
+ ![Pairpic](images/GBICpair.jpg)
+
 ### A few top tips for pairing pupils:
 + An initial investment of time in pairing learners can both help optimise the benefits of Pair Programming and avoid one pupil dominating the other
 + Ensure that pupils are implementing Pair Programming:
