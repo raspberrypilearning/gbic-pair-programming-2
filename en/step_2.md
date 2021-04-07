@@ -9,7 +9,7 @@ Scratch 3 can be used on touchscreen devices such as iPads, Android tablets, and
 
 If you are using Scratch online, teachers can set up a [Teacher Account](https://scratch.mit.edu/educators/faq) and then set up accounts for the pairs of pupils in their class. See the Units Overview, Section 4 for more details about the process.
 
---- task --- Read Section 4 of the Units Overview (link) and decide whether you will use the online or offline editor. If you do not already have Scratch 3 set up for your teaching, make sure you have downloaded it or set up a Teacher Account for online use. Set up online accounts or offline folders for saving pupils' work.
+--- task --- Read Section 4 of the [Units Overview](ncce.io/R2iy6p) and decide whether you will use the online or offline editor. If you do not already have Scratch 3 set up for your teaching, make sure you have downloaded it or set up a Teacher Account for online use. Set up online accounts or offline folders for saving pupils' work.
 
 --- /task ---
 
