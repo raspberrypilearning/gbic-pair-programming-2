@@ -16,10 +16,11 @@ If you are using Scratch online, teachers can set up a [Teacher Account](https:/
 **Devices and live demonstrations**
 Ideally, all demonstrations of programming should be done live. Set up well in advance of delivering the lessons as you may need to bring in expertise, seek permissions, or source additional hardware. 
 
-For tablets/iPad, you will be able to choose between Bluetooth connectivity, wireless LAN connectivity, or connectivity through hardware (such as an HDMI AV adapter):
+If you are running the demonstration from a desktop computer or laptop, connect the computer or laptop to an interactive whiteboard or screen in the classroom.
+
+If you are running the demonstration from a tablet/iPad, you will be able to choose between Bluetooth connectivity, wireless LAN connectivity, or connectivity through hardware (such as an HDMI AV adapter):
 + Android tablet — search online for "screen mirroring" with the make/model of your device.
 + iPad — follow [information on AirPlay](https://support.apple.com/en-us/HT204289) or [information on AV adapters](https://support.apple.com/en-us/HT202044). 
-+ Desktop computer — it is possible to demonstrate from the teacher's interactive whiteboard or an alternative monitor.
 
 
 
