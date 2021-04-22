@@ -14,6 +14,7 @@ If you are using Scratch online, teachers can set up a [teacher account](https:/
 --- /task ---
 
 **Devices and live demonstrations**
+
 Ideally, all demonstrations of programming should be done live. 
 
 If you are running the demonstration from a desktop computer or laptop, connect the computer or laptop to an interactive whiteboard or screen in the classroom.
