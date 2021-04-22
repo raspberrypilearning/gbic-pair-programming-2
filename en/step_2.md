@@ -1,6 +1,6 @@
 ## Task 1: Technical setup for the project
 
-Check that you are prepared for the project. This step is the first in a series of tasks in order to ensure that the technical setup is arranged well in advance of delivering the lessons. You will need to install an app or software to the class devices and you may need to bring in expertise, seek permissions, or source additional hardware. 
+Check that you are prepared for the project. This step is the first in a series of tasks to make sure that the technical setup is arranged well in advance of delivering the lessons. You will need to install an app or software to the class devices and you may need to bring in expertise, seek permissions, or source additional hardware. 
 
 **Scratch 3**
 You will need to choose whether your class will create programs using Scratch 3 online in a web browser, or using a version of Scratch 3 that has been downloaded to use offline on local computers. Your decision should be based on factors such as school policy on the use of online applications and whether the school has a reliable internet connection. You should check which option would be best in your school with your school’s network/IT manager. 
