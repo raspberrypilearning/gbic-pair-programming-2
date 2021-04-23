@@ -1,4 +1,4 @@
-## Task 1: Technical setup for the project
+## Technical setup for the project
 
 Check that you are prepared for the project. This step is the first in a series of tasks to make sure that the technical setup is arranged well in advance of delivering the lessons. You will need to install an app or software to the class devices and you may need to bring in expertise, seek permissions, or source additional hardware. 
 
