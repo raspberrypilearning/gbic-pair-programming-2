@@ -11,26 +11,26 @@ The pairings must be decided by the teacher in advance of the first lesson. It i
  ![Two pupils working together at a computer.](images/GBICpair.jpg)
 
 ### A few top tips for pairing pupils
-+ An initial investment of time in pairing learners can both help optimise the benefits of Pair Programming and avoid one pupil dominating the other
-+ Ensure that pupils are implementing Pair Programming:
++ An initial investment of time in pairing pupils can both help optimise the benefits of Pair Programming and avoid one pupil dominating the other
++ To ensure that pupils are implementing Pair Programming:
   + Circulate throughout the lessons
-  + Stand back and observe the class of pairs: pupils should be animated and discussing code. Provide reminders about the roles of the navigator and the driver using the prompts provided throughout the lesson and encourage discussion between pairs
+  + Stand back and observe the class of pairs: pupils should be animated and discussing code. Provide reminders about the roles of the navigator and the driver using the prompts provided throughout the lesson and encourage discussion between pupils
   + Interact with paired pupils together, rather than speaking to them individually
-+ Check in regularly with the pairs to make sure that they are working well together
++ Check on the pairs regularly to make sure that they are working well together
 
 --- task --- Using your class list, consider which pupils you will pair up for the first unit of the project. Produce a template seating plan for your own classroom. --- /task ---
 
 ## Timing
 
-We recommend that pupils swap roles every five minutes, depending on the task. This is flexible and needs to be monitored, and might need to be varied according to your class and/or the task.
+We recommend that pupils swap roles every five minutes, depending on the task. This is flexible and needs to be monitored, it might need to be varied according to your class and/or the task.
 
-It is easiest to use an automated timer to signal to your pupils when they need to switch roles. You can use either an online digital timer or your mobile device, although if you are focusing on teaching delivery, you may find a phone an additional complication.
+It is easiest to use an automated timer to signal to your pupils when they need to switch roles. You can use either an online digital timer or your mobile device, although if you are focusing on teaching delivery, you may find a phone distracting.
 
 There are lots of free online stopwatches available, for example, [Google Timer](https://www.google.com/search?q=google+timer&rlz=1C1CHBF_enGB860GB861&oq=google+timer&aqs=chrome..69i57j0l7.1420j0j7&sourceid=chrome&ie=UTF-8)  or [online clock](http://www.timer.onlineclock.net). Stopwatches that just show seconds and minutes work best. Make sure that the sound is turned up on your computer so that pupils can hear when they need to change roles.
 
 ## Classroom setup
 
-Make sure that you have enough space for two pupils to comfortably share a computer. As you saw in the video in the previous session, it is easier for pupils to simply move the keyboard and mouse over to the driver as they swap roles, rather than swapping seats after every five-minute interval. This minimises disruption and allows pupils to concentrate on the programming task at hand. Also ensure that each pair has their 'map to successful pairing' so that they can review and reflect on their pair work in every lesson.
+Make sure that you have enough space for two pupils to comfortably share a computer. As you saw in the video in the previous session, it is easier for pupils to simply move the keyboard and mouse over to the driver as they swap roles, rather than swapping seats after every five-minute interval. This minimises disruption and allows pupils to concentrate on the programming task at hand. Also ensure that each pair has their 'Map to successful pairing' so that they can review and reflect on their pair work in every lesson.
 
 Click the green button (below right) to go to the next step in this session.
 
