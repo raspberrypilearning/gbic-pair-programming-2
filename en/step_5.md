@@ -1,9 +1,13 @@
 ## Teacher experience of Pair Programming
 
-As you saw in the last session, we have already worked with some primary school teachers as part of this project. Watch the video below to hear about one of our teachers’ experiences of taking part in the project, and some of her top tips for using Pair Programming in the classroom.
+As you saw in the last session, we have already worked with some primary school teachers as part of this project. 
 
-[insert video]
+--- task ---
+Click on the 'Pair Programming Teacher Interview' link below to watch a video about one of our teachers’ experiences of taking part in the project, and some of her top tips for using Pair Programming in the classroom.
 
+[Pair Programming Teacher Interview](https://youtu.be/oLM74jHD2YU)
+
+--- /task ---
 
 Click the green button (below right) to go to the next step in this session.
 
