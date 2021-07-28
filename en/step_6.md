@@ -1,7 +1,7 @@
 ### Completion survey
 
 --- task ---
-Please complete the [Pair Programming training survey](https://form.raspberrypi.org/f/pptrainingsurvey) to confirm that you have finished the course and provide some feedback.
+Please complete the [Pair Programming training survey](https://form.raspberrypi.org/f/pptrainingsurvey) to confirm that you have finished the course and provide some feedback. This is required so that we can reimburse your school for supply cover.
 --- /task ---
   
 You have now completed the course. Thank you, and well done!
