@@ -1,19 +1,12 @@
 ---
-title: 'Session 2: ''Pair Programming'' Teaching Approach training - Preparing for
-  the project'
-hero_image: images/introduction2.png
-description: Session 2 of the online training course helps teachers to prepare for
-  the 'Pair Programming' Teaching Approach project through a series of tasks
+title: gbic-pair-programming-2
+hero_image: images/banner.png
+description: gbic-pair-programming-2 description
 version: 4
 listed: false
 copyedit: false
 last_tested: '2021-03-26'
 steps:
-- title: Getting started
-  completion: engaged
-- title: Technical setup
-- title: Explore the resources
-- title: Setting up the classroom for Pair Programming
-- title: Teacher experience of Pair Programming
-  completion: internal
-- title: Completion survey
+- title: Introduction
+- title: Step title
+- title: What next?
