@@ -10,10 +10,8 @@ copyedit: false
 last_tested: '2021-03-26'
 steps:
 - title: Getting started
-  completion: engaged
 - title: Technical setup
 - title: Explore the resources
 - title: Setting up the classroom for Pair Programming
 - title: Teacher experience of Pair Programming
-  completion: internal
 - title: Completion survey
